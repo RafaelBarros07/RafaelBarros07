@@ -1,16 +1,17 @@
-### Hi there 👋
+### boas vindas ao meu perfil 😄👋
 
-<!--
-**RafaelBarros07/RafaelBarros07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Rafael Barros 
 
-Here are some ideas to get you started:
+-estudo js pela alura
+  
+-estudo python pelo estudonauta
+  
+-uso este espaço para organização e ompartilhamento dos meus projetos de estudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+raf.pecoraribarros@outlook.com
+
+@rafa.barros07
+
+![](https://media1.tenor.com/m/iAECxbesKX8AAAAC/hi-waving.gif)
